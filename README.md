@@ -1,9 +1,3 @@
-Perfect 👌 Thanks for sharing your project zip. Since this is a **MERN project with Docker deployment**, I’ll create a good **README.md** file for you that explains everything clearly.
-
-Here’s a draft you can use directly in your repo:
-
----
-
 # MERN Product Management App
 
 This is a **MERN (MongoDB, Express.js, React.js, Node.js)** project that allows users to **add, edit, delete, and manage a list of products**. The project is also **Dockerized** for easy deployment.
@@ -103,7 +97,3 @@ PORT=5000
 
 **Hiba Sharif**
 🔗 [GitHub Profile](https://github.com/hibasharif)
-
----
-
-Would you like me to also **auto-generate badges** (for Docker, Node, React, MongoDB) at the top of your README so it looks more professional like open-source projects?
